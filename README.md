@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactJs/Native private projects.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently trying **Adonisjs 5**
 
 - 👯 I’m looking to collaborate on **open source and collaborative projects**
 
