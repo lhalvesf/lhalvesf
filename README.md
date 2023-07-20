@@ -7,6 +7,7 @@ I’m still very interested in **ReactJs/Native** and work in my own private pro
 I’m open to collaborate on **open source and collaborative projects** and with you need/want to reach me, please use 📫 **lh.alvesf@gmail.com**
 
 <h5 align="left">Languages and Tools I’m experienced:</h5>
+- Jest, Cypress <br />
 - Front-end (ReactJS/Native, VueJs, PWAs, CSS-SASS-SCSS, JQuery (and similar general libs), Semantic HTML)<br />
 - Backend (Python, Nodejs, AdonisJs)<br />
 - MySQL, Postgres, SQlite, MongoDB <br />
