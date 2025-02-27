@@ -1,20 +1,24 @@
-<h2>Hello, I`m Luiz</h2>
-<h5>Software development | fullstack</h5>
+<h2>Hi, Luiz</h2>
+<h5>fullstack developer</h5>
 
-At moment I’m spending most of my spare time researching and learning things about topics regarding: **devOps/Kubernetes/Servers**, **Cloud Computing/Edge Computing/AWS Certifications** and **software quality assurance**.
-I’m still very interested in **ReactJs/Native** and work in my own private projects alongside that.
+Currently I'm enrolled on a **Data Science** bachelors degree at **UNIVESP**, but I have already a good background with fullstack development. Some of my strongest skills are about JS/TS and Nodejs related topics, but I love also frontend stuff (including libs like as Reactjs, Vue etc), in backend I have experience with Nodejs (Express, Adonisjs, Nestjs) and Python (mostly with DRF and Flask) and some other languages like Ruby (Ror) and C#.
 
-I’m open to collaborate on **open source and collaborative projects** and with you need/want to reach me, please use 📫 **lh.alvesf@gmail.com**
+I feel very confortable to work with large teams with different challenges and culture, because one of most important things for me is to learn new things and discover new (even better) ways to be more effective and delivery higher quality in everything I can, improve communication and growth as a human being. 
+
+I working for an international company about 3 years and it brings a lot of good insights for me and I'm very proud to collaborate in very interesting projects.
+
+I'm also interested in **devOps**, **Kubernetes**, **Distributed Computing**,  **AWS Services** and **Software Testing**.
+
+I’m open to collaborate on **open source projects** and with you need/want to reach me, please use 📫 **lh.alvesf@gmail.com**
 
 <h5 align="left">Languages and Tools I’m experienced:</h5>
-- Jest, Cypress <br />
-- Front-end (ReactJS/Native, VueJs, PWAs, CSS-SASS-SCSS, JQuery (and similar general libs), Semantic HTML)<br />
+- Linux<br />
+- Shell scripting<br />
+- Clean Code<br />
+- Software Architeture<br />
+- Software testing (Jest, Cypress, PyTest, Unittest)<br />
+- Frontend (mainly React)<br />
 - Backend (Python, Nodejs, AdonisJs)<br />
-- MySQL, Postgres, SQlite, MongoDB <br />
-- Docker e Kubernets<br />
-- Git, Bitbucket, Jira (Atlassian)<br />
-- Postman, Insomnia<br />
-- Linux Ubuntu/CentOS<br />
-- Vim, vi, nano, VsCode<br />
-- Clean Code / Solid Architeture<br />
-
+- Relational and non Relational databases (MySQL, Postgres, SQlite, MongoDB)<br />
+- Docker, Kubernetes, Helm<br />
+- Git, Bitbucket, Jira<br />
