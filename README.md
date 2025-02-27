@@ -21,4 +21,5 @@ I’m open to collaborate on **open source projects** and with you need/want to 
 - Backend (Python, Nodejs, AdonisJs)<br />
 - Relational and non Relational databases (MySQL, Postgres, SQlite, MongoDB)<br />
 - Docker, Kubernetes, Helm<br />
-- Git, Bitbucket, Jira<br />
+- Git, Gitlab, Bitbucket (and CD/CI pipelines)<br />
+- Jira, Confluence
