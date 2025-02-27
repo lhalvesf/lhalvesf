@@ -1,4 +1,4 @@
-<h2>Hi, Luiz</h2>
+<h2>Hi, I'm Luiz</h2>
 <h5>fullstack developer</h5>
 
 Currently I'm enrolled on a **Data Science** bachelors degree at **UNIVESP**, but I have already a good background with fullstack development. Some of my strongest skills are about JS/TS and Nodejs related topics, but I love also frontend stuff (including libs like as Reactjs, Vue etc), in backend I have experience with Nodejs (Express, Adonisjs, Nestjs) and Python (mostly with DRF and Flask) and some other languages like Ruby (Ror) and C#.
